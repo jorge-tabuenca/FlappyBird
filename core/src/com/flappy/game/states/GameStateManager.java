@@ -1,4 +1,4 @@
-package com.flappy.game.States;
+package com.flappy.game.states;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import java.util.Stack;
